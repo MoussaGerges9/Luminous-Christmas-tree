@@ -1,0 +1,3 @@
+﻿  Luminous Christmas tree.cpp
+C:\Users\mouss\Desktop\Luminous Christmas tree\Luminous Christmas tree\Luminous Christmas tree.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Luminous Christmas tree.vcxproj -> C:\Users\mouss\Desktop\Luminous Christmas tree\Debug\Luminous Christmas tree.exe
